@@ -1,0 +1,12 @@
+gobuster
+seclists
+dconf-cli
+g++
+pip
+libreoffice
+smtp-user-enum
+leafpad
+enum4linux
+smbmap
+tilix
+dbus-x11
